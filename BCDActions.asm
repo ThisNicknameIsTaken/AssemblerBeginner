@@ -235,6 +235,7 @@ Okl:
    
 Nextl:
 rcl outRes[1],4
+and outRes[1],0f0h
 add outRes[1],al
 
 
